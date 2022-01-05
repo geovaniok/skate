@@ -1,2 +1,1 @@
-# skate
-skate
+skate-html-game
